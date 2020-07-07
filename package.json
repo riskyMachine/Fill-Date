@@ -1,0 +1,14 @@
+{
+  "name": "fill-date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dateDiff.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "rohan-riskyMachine",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^26.1.0"
+  }
+}
