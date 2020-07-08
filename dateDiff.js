@@ -41,5 +41,5 @@ function solution(D){
 
     return result;
 }
-
+console.log(solution({'2019-01-10':10,'2019-01-11':20,'2019-01-13':10, '2019-01-16':25}))
 module.exports = { solution };
